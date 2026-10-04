@@ -7,7 +7,7 @@ BlogSphere is a production-grade, editorial-style full-stack blogging platform i
 ---
 ## 🌐 Live Demo
 
-👉 **[Click Here to View Live Demo]([https://your-demo-link.netlify.app/](https://task-4-blog-platform-with-comments.onrender.com)**
+👉 **[Click Here to View Live Demo](https://task-4-blog-platform-with-comments.onrender.com/)**
 ---
 ## Table of Contents
 1. [Overview & Highlights](#overview--highlights)
